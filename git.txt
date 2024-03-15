@@ -1,0 +1,7 @@
+创建本地库
+git init
+2、git add test01.txt
+     git add .
+3、git status 查看当前库中文件状态
+4、git commit -m “说明”提交暂存区中的文件到本地库
+5、git-log 日志
